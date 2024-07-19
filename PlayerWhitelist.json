@@ -45,6 +45,21 @@
         }
       ]
     },
+    "998979962948288634": {
+      "hash": "27b51184cfe40c854bdaa2c4ffe1fcdd953f8c423cbc1cd0b220e8446ecb868012ecad411ebc4ea5754858134d783227d94ae88672eada48d36f23eb99a34ad2",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "RENDER DEVELOPER (REAL)",
+          "color": [
+            191,
+            64,
+            191
+          ]
+        }
+      ]
+    },
     "1247287578714177597": {
       "hash": "32eff8d3fda618fa28b05ffb0e538ea7d8223b19d1a8c700c7cb25b8555f40779f97aacffc41bce88757ac43bc3689281c29deb4174dc153f17953ddbd2a0e1f",
       "attackable": false,
@@ -221,21 +236,6 @@
             9,
             79,
             255
-          ]
-        }
-      ]
-    },
-    "905662622555340851": {
-      "hash": "0fa3430594f6a33578362c2b911d77c3b725dcbf8315121e2ef6df77ad935baad2fec8b50e2b356e762c2c871617cb68ca180e892f9d47a428061ba4847c18ef",
-      "attackable": false,
-      "level": 1,
-      "tags": [
-        {
-          "text": "tag_text:test  tag_color:0,0,139",
-          "color": [
-            210,
-            43,
-            43
           ]
         }
       ]
