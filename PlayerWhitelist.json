@@ -285,21 +285,6 @@
         }
       ]
     },
-    "880304650769813515": {
-      "hash": "41891b69abb11efa405dd8ab9905c89818efce278ae6c0fdc67ac9cd7dc0f5c9764849cf63aa4b354f0ebab10b6fe1369f84776cd6789ff7ee00456be77f1399",
-      "attackable": false,
-      "level": 1,
-      "tags": [
-        {
-          "text": "private 2.0",
-          "color": [
-            210,
-            43,
-            43
-          ]
-        }
-      ]
-    },
     "1115674875919597639": {
       "hash": "4b1f11740b92d75c90ccc98bc6c5cf9fbb6f9b57d05d4f7185c64bcfefbcdae35ed306d35bba0911029b7e55dcbbdf1b04465c79d7d3e55004136e6be6ada64f",
       "attackable": false,
