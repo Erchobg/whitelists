@@ -419,6 +419,21 @@
           ]
         }
       ]
+    },
+    "1172948751824994369": {
+      "hash": "c592a98102b5e9d4fcba9ec46bd8cdffddd0752c9ad293ba44b0441590806cb9bb0a9bf7c18e67a9454e61f45f9686f0fe1657c2893c4901103a3cff35a66eaa",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "VOIDWARE PRIVATE",
+          "color": [
+            210,
+            43,
+            43
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {},
