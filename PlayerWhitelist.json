@@ -406,16 +406,16 @@
       ]
     },
     "1257420504529113095": {
-      "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
+      "hash": "0d753c156684ae044f528967a89bfb2de9ccba983ad6927728323db4cfa2b1712b0de949358c50a49b8f1e6404d996f0d87b0ba70f3e9ed03de63cc016f0a553",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "VOIDWARE PRIVATE",
+          "text": "Sky",
           "color": [
-            210,
-            43,
-            43
+            0,
+            0,
+            0
           ]
         }
       ]
