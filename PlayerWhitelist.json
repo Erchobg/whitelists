@@ -457,7 +457,11 @@
       "tags": [
         {
           "text": "VOIDWARE PRIVATE",
-          "color": null
+          "color": [
+            35,
+            29,
+            38
+          ]
         }
       ]
     }
