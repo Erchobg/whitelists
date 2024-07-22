@@ -120,21 +120,6 @@
         }
       ]
     },
-    "1187823462312587285": {
-      "hash": "a2d15ae82d178f08e0e81d9eb29342b8ca0c1804921324e499c7bb99efca18c8a4b85e5a9a0d015489a4e0fa8678ec10f0e297e24dde41b8f7f98c1c53474be2",
-      "attackable": false,
-      "level": 1,
-      "tags": [
-        {
-          "text": "Voidware Assistant Dev",
-          "color": [
-            51,
-            54,
-            255
-          ]
-        }
-      ]
-    },
     "1030465303576051840": {
       "hash": "0fc10a4093af15ceeb547323aba05e437a2dc3816ab8dc3d101b023d8aabb7b0942c62119cc8c191edd3d61cb59b4693813d3a418862af78515e68622d36bdff",
       "attackable": false,
@@ -331,7 +316,7 @@
       ]
     },
     "581207860659355675": {
-      "hash": "d62c63b640cfb31de308ea271a99bd6ab4a4e98b3699bc6e2686839034e34079dc776050746a44f7cdabf612dd46d9d67262f23869dafebbb4bf5cfb570bef6a",
+      "hash": "79f3b3de8b0c2761985a852df6ac4731b5805d65e77573483ab1b5675ac16ca6b349fd7ab7c5be8d3b9555290dabdc900c28e2710ea14ecaf6979d218ad3e7e4",
       "attackable": false,
       "level": 1,
       "tags": [
