@@ -256,12 +256,12 @@
       ]
     },
     "1162625831282147431": {
-      "hash": "d991894d7f6ba56d23871cd3e45aee2b54587a6fad3e5b6d9ecd626cee98d9f802b7c992c9e6999f7b317449fd80a97feac1afba4b4eeaacdcb81868e70f4d0b",
+      "hash": "dc97fbafe5ca1adb137d6bbaf76c5970e3bf51a18bc83f9fc78c543754c40a01c7cab7b9a7950b1c21dba3feb97089a65c437ed0f090fe916bf51c2e17d8f75f",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "renderintents",
+          "text": "outer",
           "color": [
             210,
             43,
