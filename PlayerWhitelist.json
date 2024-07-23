@@ -471,11 +471,11 @@
       "level": 1,
       "tags": [
         {
-          "text": "VOIDWARE PRIVATE",
+          "text": "voidware support",
           "color": [
-            210,
-            43,
-            43
+            127,
+            0,
+            255
           ]
         }
       ]
