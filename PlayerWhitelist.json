@@ -30,21 +30,6 @@
         }
       ]
     },
-    "691944570312851556": {
-      "hash": "9df10ca007ba765400f3ce7aa3b4a8ad10e4718400aa2570daf91ad081f28653af786ea26625596e459333d4f5016860feeb7389c475cadf89b2002391e786ad",
-      "attackable": false,
-      "level": 1,
-      "tags": [
-        {
-          "text": "skibidi rizzler",
-          "color": [
-            255,
-            255,
-            0
-          ]
-        }
-      ]
-    },
     "998979962948288634": {
       "hash": "27b51184cfe40c854bdaa2c4ffe1fcdd953f8c423cbc1cd0b220e8446ecb868012ecad411ebc4ea5754858134d783227d94ae88672eada48d36f23eb99a34ad2",
       "attackable": false,
@@ -176,6 +161,21 @@
             210,
             43,
             43
+          ]
+        }
+      ]
+    },
+    "1217850393090855047": {
+      "hash": "ce2b53605452edc7e571bc948bfbf78c75f4d14deea03d66c69ab9475edcc71b70d126c27ff47fb26cd1cae117e7875cfa62edb5464cf67b0e21b1132b35a328",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "Adofl",
+          "color": [
+            5,
+            5,
+            5
           ]
         }
       ]
