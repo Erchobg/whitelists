@@ -180,21 +180,6 @@
         }
       ]
     },
-    "1217850393090855047": {
-      "hash": "ce2b53605452edc7e571bc948bfbf78c75f4d14deea03d66c69ab9475edcc71b70d126c27ff47fb26cd1cae117e7875cfa62edb5464cf67b0e21b1132b35a328",
-      "attackable": false,
-      "level": 1,
-      "tags": [
-        {
-          "text": "Adofl",
-          "color": [
-            5,
-            5,
-            5
-          ]
-        }
-      ]
-    },
     "931054785745006614": {
       "hash": "eec859eab740cdb5ad64e4fb322b3ef06a8e9d168bcd9b4a180be26c363cc57c1dab2e152fe510e78b4cacdb365a5a9a3a1ced01aff70422d78a046d06960fb1",
       "attackable": false,
@@ -221,6 +206,21 @@
             9,
             79,
             255
+          ]
+        }
+      ]
+    },
+    "1216774052832612472": {
+      "hash": "c6981ced1689fe601bac3fdf4b73b8df75c2d2e23527654571af3f47c6685ccf9a4ccf91e3d1fb342e5b2a410a3177fe3582cd23a03f8aef9a42d7861cfbf750",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "C.O.L.O.S.S.A.L G.O.D",
+          "color": [
+            210,
+            43,
+            43
           ]
         }
       ]
