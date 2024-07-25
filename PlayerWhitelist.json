@@ -361,16 +361,16 @@
       ]
     },
     "903564951497605131": {
-      "hash": "c19a85460c4bbf1cc7e2bae966c2bff152f6479b1964f161316e54d0e73b7775dfb590d3374deabd090b37f7a6b92c02b67d491cdc3b565a3092008ff44a4ae4",
+      "hash": "24decb8448f38df7e0d0cf71c28d9f76ee79a53f158e47430c9074e373bae6fede1a939980d6a5c88fcd3821b6aec389a9d9e47d19af45bf5b4691c3fd301b07",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "Humanoid Nigga",
+          "text": "Private",
           "color": [
-            210,
-            43,
-            43
+            51,
+            79,
+            255
           ]
         }
       ]
