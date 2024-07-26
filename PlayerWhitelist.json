@@ -241,12 +241,12 @@
       ]
     },
     "903564951497605131": {
-      "hash": "24decb8448f38df7e0d0cf71c28d9f76ee79a53f158e47430c9074e373bae6fede1a939980d6a5c88fcd3821b6aec389a9d9e47d19af45bf5b4691c3fd301b07",
+      "hash": "8c1e008da770a1e8d3975f5e1a7a23d239cc61d267ac0790e19aa34a7f03f4e4eadb1c44ae1599d37f4f6045b82b0894b15a7e3ca5c975948bd849868912945e",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "Private",
+          "text": "Private User",
           "color": [
             51,
             79,
