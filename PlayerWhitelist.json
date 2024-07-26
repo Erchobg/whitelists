@@ -436,16 +436,16 @@
       ]
     },
     "789969566695424020": {
-      "hash": "d8ad37a109dab9273abbb3549d628152cdd4abd3492c2876df3383728cdb465772b17896effea784e36acc0cdc88172d876f8e2e89798139ff4b9377f6375517",
+      "hash": "50f0d14db81f87c28ced03ee801a2192bb069a7837b4abcfbb2b01a3830bd2b0377da0b933d3e31a2c2daee26151ffd2d3b94057143ea4018170e5d12ddb958c",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "VOIDWARE PRIVATE",
+          "text": "Funny",
           "color": [
-            210,
-            43,
-            43
+            0,
+            255,
+            255
           ]
         }
       ]
