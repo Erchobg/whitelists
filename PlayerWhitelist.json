@@ -151,12 +151,12 @@
       ]
     },
     "1162625831282147431": {
-      "hash": "0690402a17d5a3af3635b5f5e2cd4e8cadbc17bdf9267aed8b1ba026f2e011e423de231a01e126401d1e931d19aef173f1daab57d68e1b6613795218ac9cf85e",
+      "hash": "1b6bd25b5516e83f16402b48bbfb7ac5c1d6650796fe72b112e323d224500700bfa3b88394f8a2be10d80bbcef368133957f850e2a328ffb4b69156ab82e657b",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "nil",
+          "text": "outer",
           "color": [
             210,
             43,
