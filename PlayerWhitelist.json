@@ -271,16 +271,16 @@
       ]
     },
     "1257420504529113095": {
-      "hash": "0d753c156684ae044f528967a89bfb2de9ccba983ad6927728323db4cfa2b1712b0de949358c50a49b8f1e6404d996f0d87b0ba70f3e9ed03de63cc016f0a553",
+      "hash": "22a5eb3af6a776550f4d888b3acf9521d9ae5be3c7f2e110068680cf62cb14df553404f4ce16ae13eaa27b012fc138547472a5e0fc7f17bc83beb0817938f0c6",
       "attackable": false,
       "level": 1,
       "tags": [
         {
-          "text": "Nigga",
+          "text": "PRO",
           "color": [
-            0,
-            0,
-            0
+            51,
+            196,
+            255
           ]
         }
       ]
